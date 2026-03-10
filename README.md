@@ -2,8 +2,6 @@
 
 A classic pipe-rotating puzzle game with a neon cyberpunk aesthetic. Rotate pipe pieces on a grid to create a continuous path connecting the source to all sinks.
 
-![Pipe Puzzle Screenshot](screenshot.png)
-
 ## Features
 
 - 🎮 Three difficulty levels: Easy (5×5), Medium (7×7), Hard (10×10)
